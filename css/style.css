@@ -1,0 +1,104 @@
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	background: yellow;
+	height:75px
+}
+.one{
+	background-color: maroon;
+	height: 150px;
+	width: 50%;
+	float: left;
+	
+}
+.two{
+	background-color: cyan;
+	height: 150px;
+	width: 50%;
+	float: left;
+
+	
+}
+
+
+body{ background-color: #4f4f4f4f;
+ color: #5555555;
+ font-family: Arial;
+ font-size: 16px;
+ font-weight: bold;
+ line-height: 1.6em;
+ margin: 1;
+
+ }
+
+.box-1{ background-color: #333;
+	color: white;
+border-right: 5px red solid ;
+border-left: 5px red solid;
+border-top: 200px red solid;
+border-bottom: 5px red solid;
+padding: 20px;
+margin: 20px;
+}
+
+.banner{
+
+}
+
+.baneer-one{
+	background-color: black;
+	height: 450px;
+	width: 33.33%;
+	float: left;
+
+}
+
+.baneer-two
+{background-color: green;
+	height: 450px;
+	width: 33.33%;
+	float: left;
+
+
+}
+.banner-three{
+	background-color: blue;
+	height: 450px;
+	width: 33.33%;
+	float: left;
+
+
+}
+.galary{
+	width: 100%;
+float: left;
+
+}
+.galary-one{background-color: blue;
+	height: 450px;
+	width: 25%;
+	float: left;
+
+
+}
+.galary-two{background-color: coral;
+	height: 450px;
+	width: 25%%;
+	float: left;
+
+
+}
+.galary-three{background-color: blue;
+	height: 450px;
+	width: 25%;
+	float: left;
+
+
+}
+.galary-four{background-color: purple;
+	height: 450px;
+	width: 25%;
+	float: left;
+
+
+}
